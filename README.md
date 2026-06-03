@@ -12,11 +12,14 @@ Once done, find SCENE 1 and click the play button at the top of the screen -- do
 Enjoy!
 
 
-To speak: hold down the A button on the right controller*.
-To move, use the left analogue stick
-To turn, use the right analogue stick
+- To speak: hold down the A button on the right controller*.
+- To move: use the left analogue stick
+- To turn: use the right analogue stick
 
 
 The scripts which I've written are located in Assets >> Scripts.
 
 * Ensure you speak loud and clear, holding down the A button while you speak. Once finished, let go and wait a few seconds and the intelligent NPC will reply.
+
+<img width="843" height="451" alt="image" src="https://github.com/user-attachments/assets/65d4de48-af41-4888-8137-086a9c25b9a7" />
+
